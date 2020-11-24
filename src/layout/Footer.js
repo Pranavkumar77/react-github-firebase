@@ -5,7 +5,7 @@ const Footer = () => {
     return(
         <Container
          fluid 
-         className="text-center bg-info text-white text-uppercase fixed-bottom p-3"
+         className="text-center mt-5 bg-info text-white text-uppercase fixed-bottom p-3"
         >
           Pranav's Github App With Firebase
         </Container>
